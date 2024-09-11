@@ -3,7 +3,7 @@ package api.payload;
 public class User {
 	
 	int id=123;
-	String username="Mohan";
+	String username="susmitha";
 	String firstName;
 	String lastName;
 	String email;
