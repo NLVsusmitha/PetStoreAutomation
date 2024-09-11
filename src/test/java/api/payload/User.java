@@ -2,8 +2,8 @@ package api.payload;
 //json-javascript object notation
 public class User {
 	
-	int id=123;
-	String username="susmitha";
+	int id;
+	String username;
 	String firstName;
 	String lastName;
 	String email;
