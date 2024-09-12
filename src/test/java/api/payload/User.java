@@ -9,7 +9,7 @@ public class User {
 	String email;
 	String password;
 	String phone;
-	int userStatus=1;
+	int userStatus=0;
 	public int getId() {
 		return id;
 	}
